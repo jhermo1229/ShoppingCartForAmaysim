@@ -1,0 +1,4 @@
+QualifyingProduct|QualifyingQuantity|PayQuantity|Price|Bundle|Bulk
+ult_small;3;2;;;N
+ult_large;4;;39.90;;Y
+ult_medium;1;;;_1gb;N

@@ -1,0 +1,5 @@
+Product Code|Price
+ult_small;24.90
+ult_medium;29.90
+ult_large;44.90
+_1gb;9.90
